@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj": {}
+    "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Business\\Business.csproj": {
+    "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\TheMorrow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Business\\obj\\",
+        "outputPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TheMorrow\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\TheMorrow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TheMorrow\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj": {
+    "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj",
+        "projectPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\TheMorrow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Web\\obj\\",
+        "outputPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TheMorrow\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -148,8 +148,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\Business\\Business.csproj"
+              "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\Business\\Business.csproj"
               }
             }
           }

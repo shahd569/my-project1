@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\TheMorrow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TheMorrow\\Desktop\\SV\\ToDoSolution_SV\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\TheMorrow\\Desktop\\Software Egineer\\SV\\ToDoSolution_SV\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TheMorrow\\AppData\\Roaming\\NuGet\\NuGet.Config"
